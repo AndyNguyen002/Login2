@@ -10,6 +10,7 @@ export default function App() {
         />
         <TextInput
           style={styles.input}
+          
           placeholder="Password"
         />
         
